@@ -1,6 +1,6 @@
 #!/bin/bash
 # ディレクトリを再帰的にmake clean
-if [ -z $1 ]; then
+if [ -z ${1} ]; then
 	set "/"
 fi
 
