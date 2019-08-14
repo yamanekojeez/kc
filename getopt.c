@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /* getopt関数の使用例 */
-int main(int argc, char*argv[]) {
+int main(int argc, char *argv[]) {
 	int i;
 	int aopt = 0;
 	int bopt = 0;
@@ -11,7 +11,7 @@ int main(int argc, char*argv[]) {
 	char *cparam = NULL;
 	char *dparam = NULL;
 	int opt;
-	while ((opt = getopt(argc, argv, "abc:d::")) != -1) {
+	while ((opt = getopt(argc, argv, "abc:d:")) != -1) {
 		switch (opt) {
 			case 'a':
 				aopt = 1;
