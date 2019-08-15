@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 
-/* getopt関数の使用例 */
+/**
+ getopt関数の使用例
+**/
 int main(int argc, char *argv[]) {
 	int i;
 	int aopt = 0;
