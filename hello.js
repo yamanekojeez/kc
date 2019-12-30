@@ -1,3 +1,4 @@
+#!/bin/env node
 /* Node.jsのサンプル */
 console.log('何か入力してください!(endは終了)');
 
