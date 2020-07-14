@@ -26,16 +26,20 @@
 ./.git/objects/a9/f623b033e4826cccc632f510d9b5e62685dbc5: VAX COFF executable not stripped
 ./.git/objects/1e/5de3be40be8f214e3c8a88cad3860adccab1af: VAX COFF executable - version 13445
 ./.git/objects/92/6ddf052bdbaa16f402011d4ef425c85bed9a30: VAX COFF executable - version 2595
+./.git/objects/92/4468c9b4fa118ca7bd5c8e0f6c998659900ef4: VAX COFF executable not stripped - version 5776
 ./.git/objects/0e/373f3968372868740181735551f78f399c5bf6: VAX COFF executable - version 29200
+./.git/objects/e2/14f0fc4fccaa77cbb6c6833b9159bcb2f8e402: VAX COFF executable
 ./.git/objects/8e/be2b9536aea85fc7837aaf433c3a03f3624145: VAX COFF executable - version 21992
 ./.git/objects/8e/16b3b26cd516060821204faa7a12e722a129f4: VAX COFF executable not stripped
 ./.git/objects/58/1f8bb55298c7cb6c425659e81851af87a68dd8: VAX COFF executable not stripped
 ./.git/objects/58/94aa7f775cbadea1e9a8a33dc18990c51f10c3: VAX COFF executable not stripped
+./.git/objects/58/c96992d6f2aa835264fa563aa77511c4cdb177: VAX COFF executable not stripped - version 1378
 ./.git/objects/6f/e2f1563f85d14aa7229c37398460ba2997675f: VAX COFF executable not stripped - version 19392
 ./.git/objects/81/764216dd6085fbe5fc2abc7109f6a7fcc429dc: VAX COFF executable not stripped
 ./.git/objects/81/6d72c4ba757d86ab799ad36684cc1c39210f66: VAX COFF executable not stripped
 ./.git/objects/83/32a2549da1deaa13e0920c406f171117cb5143: VAX COFF executable not stripped - version 27756
 ./.git/objects/e3/afbe4d3a6e8b893e1c56f1c89b4349b4b8bd7a: VAX COFF executable not stripped
+./.git/objects/e3/51979c985c5182e5e2d5188163aae84053f8b3: VAX COFF executable not stripped
 ./.git/objects/e6/5c60a46039b5bc59603bf41beebae4e7407c4d: VAX COFF executable not stripped
 ./.git/objects/14/7c25f0fb6ac70092a49d7b5d654eaaf8825941: VAX COFF executable - version 8484
 ./.git/objects/8f/407c4f58d6f7e55770bde06a4173b57a22b4ab: VAX COFF executable not stripped
@@ -45,6 +49,7 @@
 ./.git/objects/4d/563a7b5a27b61b83b06b38999e346b080c5733: VAX COFF executable - version 21216
 ./.git/objects/2a/3df30b92ef8753800eb7e9ea98454d109c795e: VAX COFF executable
 ./.git/objects/90/1379e1e8e00d6bf33836e78f7e77592851ca54: VAX COFF executable not stripped - version 17746
+./.git/objects/3f/f3486be76bf168c1267a97688a7d0050fee7ab: VAX COFF executable not stripped
 ./.git/objects/33/1f5f71f37c6833f1e784654fb32c5139c82d23: VAX COFF executable not stripped
 ./.git/objects/9a/efb766f57c1c73e72cf4f1235f8aacb442ed97: VAX COFF executable
 ./.git/objects/46/cc3012fbcea64c2efaa5928a81f8b731ee5f05: VAX COFF executable not stripped - version 13065
@@ -66,17 +71,21 @@
 ./.git/objects/be/5b94ea31fa38e1432511a2e775022e69ba694d: VAX COFF executable not stripped - version 10113
 ./.git/objects/55/579011bbfd26d4dde771cf0e5ddb5955a63956: VAX COFF executable - version 4820
 ./.git/objects/8a/cbd53ba7830e43431d3e7e5b1af1d49bace63e: VAX COFF executable
+./.git/objects/89/00e8b4c54253e27e1114164cac7824b9b396f9: VAX COFF executable - version 377
 ./.git/objects/pack/pack-94bb3201ad750c15879bb9553b5438d0bb71b5dd.pack: Git pack, version 2, 6 objects
 ./.git/objects/pack/pack-94bb3201ad750c15879bb9553b5438d0bb71b5dd.idx: Git pack index, version 2
+./.git/objects/08/36426c41848f515ad70a5ad0cc50d3f23b4d8b: VAX COFF executable not stripped - version 18638
 ./.git/objects/08/2b66ed8b458c7ccb0683f8efdf7622efeb07f4: VAX COFF executable not stripped - version 32180
 ./.git/objects/31/169c72430747f402ee25e07cee690c88b41131: VAX COFF executable
 ./.git/objects/39/592ca6ff86c1317d6b7a3e5246acd70ec2b530: VAX COFF executable
+./.git/objects/82/eecbc5203b9c6fe7be10c0cd29e27f1f4b2c8b: VAX COFF executable not stripped
 ./.git/objects/56/ab5be70da79d1f83fb203af8e21bd55f1a70b9: VAX COFF executable not stripped
 ./.git/objects/f4/0ef2e23e4e95e02158df3e14d8f991e44b4705: VAX COFF executable - version 18800
 ./.git/objects/66/8675089e56d67ffe07cb3414d21a823fe433e8: VAX COFF executable not stripped - version 7025
 ./.git/objects/a8/7ef0082ee07fe58eafad96bfe93d8989fae484: VAX COFF executable not stripped - version 29256
 ./.git/objects/9e/da3fc1849643f720ad6446445dfb3396890d19: VAX COFF executable
 ./.git/objects/3d/6fa42b457953e3b71fbc5eea994568ee8e026c: VAX COFF executable not stripped - version 10123
+./.git/objects/0d/7f4a2eb123f90a9b854f8043e5531be8697181: VAX COFF executable not stripped - version 14399
 ./.git/hooks/applypatch-msg.sample: POSIX shell script, ASCII text executable
 ./.git/hooks/prepare-commit-msg.sample: POSIX shell script, ASCII text executable
 ./.git/hooks/update.sample: POSIX shell script, ASCII text executable
@@ -87,7 +96,7 @@
 ./.git/hooks/pre-push.sample: POSIX shell script, ASCII text executable
 ./.git/hooks/pre-rebase.sample: POSIX shell script, ASCII text executable
 ./.git/hooks/commit-msg.sample: POSIX shell script, ASCII text executable
-./.git/index: Git index, version 2, 11 entries
+./.git/index: Git index, version 2, 14 entries
 ./.git/logs/HEAD: UTF-8 Unicode text, with very long lines
 ./.git/logs/refs/heads/master: UTF-8 Unicode text, with very long lines
 ./.git/logs/refs/remotes/origin/HEAD: ASCII text

@@ -18,7 +18,7 @@ touch ./log/${SHNM}_real.log > /dev/null 2>&1
 
 echo "START $(date)"
 
-for file in `\find $1 -type f`; do
+for file in $(\find $1 -type f); do
 
   file ${file} >> ./log/${SHNM}_real.log 2>&1
   CRLFCOUNT=`file ${file} | grep -c "CRLF"`
