@@ -17,8 +17,8 @@ touch /dev/shm/${SHNM}_real.log > /dev/null 2>&1
 
 echo "START $(date)"
 
-for file in $(\find $1 -type f); do
-    file ${file} >> /dev/shm/${SHNM}_real.log 2>&1
+for file in $(\sudo find $1 -type f); do
+    sudo file ${file} >> /dev/shm/${SHNM}_real.log 2>&1
     CRLFCOUNT=`file ${file} | grep -c "CRLF"`
 
     if [ ${CRLFCOUNT} -eq "0" ];then
