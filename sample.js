@@ -20,7 +20,8 @@ process.stdin.on('data', function(inputData){
 			process.exit(0);
 		} else {
 			console.log('入力文字: ' + input);
-				process.exit(0);
+			console.log('終了!');
+			process.exit(0);
 		}
 });
 
