@@ -1,10 +1,11 @@
-tのクリーン
+#!/bin/bash
+# .gitのクリーン
 
 echo ".gitオブジェクトのクリーン"
 echo "-----------------------------------------"
 
 if [ -z $1 ]; then 
-    echo "対象のgitディレクトリは/root/bin/wwwです"
+    echo "対象のgitディレクトリは/home/ec2-user/environment/binです"
     gitdir=$HOME/environment/bin
     cd ${gitdir}
 else
