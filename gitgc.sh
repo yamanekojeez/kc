@@ -10,7 +10,7 @@ if [ -z $1 ]; then
     cd ${gitdir}
 else
     echo "対象のgitディレクトリは$1です"
-    gitdir=$HOME/bin/$1
+    gitdir=$HOME/$1
     cd ${gitdir}
     if [ $? -ne 0 ]; then
         echo "終了します"
